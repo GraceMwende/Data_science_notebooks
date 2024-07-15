@@ -1,2 +1,2 @@
-# Python-basics
-## First Python Project
+# Python-basics(PHASE 0 )
+## Katas, Notes, labs and assignments
